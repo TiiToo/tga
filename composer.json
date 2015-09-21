@@ -1,5 +1,5 @@
 {
-	"name": "tga/audience-bundle",
+	"name": "tiitoo/tga",
 	"description": "Audience statistics bundle for Symfony2",
 	"keywords": ["audience", "visitors", "analystics", "stats", "statistics"],
 	"type": "symfony-bundle",
